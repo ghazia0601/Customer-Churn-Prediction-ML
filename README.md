@@ -76,3 +76,7 @@ Ensemble model training
 Model serialization using Joblib
 Flask ML deployment
 Cloud deployment using Render
+
+**Author**
+Ghazia
+IT Graduate | Data Science Enthusiast
